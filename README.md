@@ -11,6 +11,6 @@ In this repository I will be posting everything that I am learning about Web Dev
 + Work on concurrent branches <br />
 + Merge between branches <br />
 
-[FreeGitBook](http://git-scm.conm/book/en/v2) <br />
+[FreeGitBook](http://git-scm.com/book/en/v2) <br />
 
 
