@@ -14,3 +14,11 @@ In this repository I will be posting everything that I am learning about Web Dev
 [FreeGitBook](http://git-scm.com/book/en/v2) <br />
 
 
+##  Introduction to GitHub  <br />
+
+**GitHub is a collaboration platform for Git-based projects**
+
++ Over 31 million repository
++ Free account: allows for unlimited public repository
++ Hosts all the most popular Git-based open source projects
+
