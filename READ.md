@@ -4,7 +4,7 @@ Run the following command:
 mvn clean install
 ```
 
-### <h1> Full-Stack-Developer-Journey </h1
+### <h1> Full-Stack-Developer-Journey </h1>
 In this repository I will be posting everything that I am learning about Web Development. <br />
 
 ##  Introduction to Git  <br />
