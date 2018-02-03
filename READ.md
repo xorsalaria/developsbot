@@ -28,4 +28,10 @@ In this repository I will be posting everything that I am learning about Web Dev
 + Free account: allows for unlimited public repository
 + Hosts all the most popular Git-based open source projects
 
+## What is Spring STS
+
++ It's a Java IDE based Eclipse <br />
++ Offers additional Spring functionality <br />
++ Among other utilities, provides native support for Maven and Git <br />
+
 
